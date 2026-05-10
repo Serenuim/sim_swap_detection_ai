@@ -1,2 +1,4 @@
 venv
 sim_swap_test_data.csv
+.env
+sim_swap_dataset_ (1).ipynb
